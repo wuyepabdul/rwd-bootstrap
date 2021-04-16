@@ -1,0 +1,11 @@
+.navbar {
+  background-color: rgb(226, 40, 40);
+}
+.navbar > div a {
+  color: white;
+}
+@media only screen and (max-width: 1020px) {
+  .nav .nav-link {
+    display: none;
+  }
+}
